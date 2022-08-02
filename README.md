@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ethangonsalves.com](https://ethangonsalves.com)
 
-- 📝 I regularly write articles on [James Webb Telescope](James Webb Telescope)
+- 📝 I'm currently studying **Japanese**
 
 - 📫 How to reach me **ethgon19@gmail.com**
 
@@ -24,4 +24,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gonz4216&" alt="gonz4216" /></p>
 
-![This is an image](https://user-images.githubusercontent.com/99839612/182303805-d9459e05-2f82-4efa-a22e-7baedd2eae6c.jpg)
+![MAC AVATAR](https://user-images.githubusercontent.com/99839612/182305335-0ad79c27-842f-4495-80c6-e491ba18a8a0.png)
+
