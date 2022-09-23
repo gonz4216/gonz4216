@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ethan!</h1>
 <h3 align="center">A passionate frontend developer from Toronto, Ontario</h3>
 
-- 🔭 I’m currently working on **a Twitter clone with react.js**
+- 🔭 I’m currently working on **n/a**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **IOS Development**
 
 - 👨‍💻 All of my projects are available at [https://ethangonsalves.com](https://ethangonsalves.com)
-
-- 📝 I'm currently studying **Japanese**
 
 - 📫 How to reach me **ethgon19@gmail.com**
 
