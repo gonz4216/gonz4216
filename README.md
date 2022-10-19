@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ethan!</h1>
-<h3 align="center">A passionate frontend developer from Toronto, Ontario</h3>
+<h3 align="center">A passionate software developer from Toronto, Ontario</h3>
 
 - 🔭 I’m currently working on **n/a**
 
-- 🌱 I’m currently learning **IOS Development**
+- 🌱 I’m currently learning **UIKit**
 
 - 👨‍💻 All of my projects are available at [https://ethangonsalves.com](https://ethangonsalves.com)
 
