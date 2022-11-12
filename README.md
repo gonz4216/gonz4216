@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **n/a**
 
-- 🌱 I’m currently learning **UIKit**
+- 🌱 I’m currently learning **n/a**
 
 - 👨‍💻 All of my projects are available at [https://ethangonsalves.com](https://ethangonsalves.com)
 
