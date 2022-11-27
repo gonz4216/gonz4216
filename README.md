@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ethan!</h1>
 <h3 align="center">A passionate software developer from Toronto, Ontario</h3>
 
-- 🔭 I’m currently working on **n/a**
 
-- 🌱 I’m currently learning **n/a**
-
-- 👨‍💻 All of my projects are available at [https://ethangonsalves.com](https://ethangonsalves.com)
+- 👨‍💻 View my portfolio at [https://ethangonsalves.com](https://ethangonsalves.com)
 
 - 📫 How to reach me **ethgon19@gmail.com**
 
