@@ -19,5 +19,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gonz4216&" alt="gonz4216" /></p>
 
-![MAC AVATAR](https://user-images.githubusercontent.com/99839612/182305335-0ad79c27-842f-4495-80c6-e491ba18a8a0.png)
+
 
