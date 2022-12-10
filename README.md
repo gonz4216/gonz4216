@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Toronto, Ontario</h3>
 
 
-- 👨‍💻 View my portfolio at [https://ethangonsalves.com](https://ethangonsalves.com)
+- 👨‍💻 View my portfolio at [https://ethan.coffee](https://ethan.coffee)
 
 - 📫 How to reach me **ethgon19@gmail.com**
 
